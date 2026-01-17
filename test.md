@@ -1,1 +1,1 @@
-![test](dir11_directory)
+![test](dir11_directory.png)
